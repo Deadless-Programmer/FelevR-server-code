@@ -12,3 +12,7 @@ app.get('/',(req, res)=>{
 app.get('/allData', (req, res)=>{
     res.send(allData);
 })
+
+app.listen(port, ()=>{
+    console.log(`site api is running on port${port}`)
+})
