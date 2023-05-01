@@ -8,3 +8,7 @@ app.use(cors());
 app.get('/',(req, res)=>{
         res.send('site is running')
 });
+
+app.get('/allData', (req, res)=>{
+    res.send(allData);
+})
