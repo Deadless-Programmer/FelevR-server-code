@@ -60,7 +60,7 @@
           "favorite": false
         },
         { "id":"12",
-        "img":"https://images.unsplash.com/photo-1580013759032-c96505e24c1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=609&q=80",
+        "img":"https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
           "name": "Kimchi Fried Rice",
           "ingredients": ["2 cups cooked rice", "1/2 cup kimchi, chopped", "4 slices bacon, chopped", "1/4 cup chopped green onions", "2 cloves garlic, minced", "2 eggs, beaten", "2 tbsp vegetable oil", "1 tbsp gochujang sauce", "salt and pepper to taste"],
           "instructions": "1. Heat a large skillet or wok over medium heat. 2. Add the bacon and cook until crispy. 3. Add the garlic and green onions and sauté for 1 minute. 4. Add the kimchi and sauté for 2-3 minutes. 5. Add the cooked rice and stir well to combine. 6. Push the rice to one side of the skillet and add the beaten eggs to the other side. 7. Scramble the eggs until cooked, then mix with the rice. 8.",
