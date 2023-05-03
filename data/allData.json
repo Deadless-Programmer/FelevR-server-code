@@ -2,29 +2,32 @@
     {
       "id":"1",
       "chefPicture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=377&q=80",
-      "chefName": "Kim Min-ji",
+      "chefName": "Baek Jong-won",
       "yearsOfExperience": 15,
       "numbersOfRecipes": 100,
       "Likes": 15000,
-      "Bio": "Kim Min-ji is a renowned Korean chef who has dedicated her career to promoting Korean cuisine around the world. She has trained in some of the most prestigious kitchens in Seoul and has won numerous awards for her innovative and authentic Korean dishes. Kim is passionate about using fresh, local ingredients and showcasing the rich history and culture of Korean food.",
+      "Bio": "Baek Jong-won, sometimes spelled Paik Jong-won, is a South Korean chef. He is the main host of the SBS' cooking television series Baek Jong-won's Top 3 Chef King, Baek Jong-won's Food Truck, and Baek Jong-won's Alley Restaurant.",
       "Recipes": [
-        {
+        { "id":"7",
+          "img":"https://images.unsplash.com/photo-1555939594-58d7cb561ad1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
           "name": "Bibimbap",
           "ingredients": ["3 cups cooked rice", "1/2 lb beef", "1 carrot, julienned", "1 zucchini, julienned", "1/2 cup bean sprouts", "1/2 cup spinach", "1 egg", "4 tbsp gochujang sauce", "2 tbsp sesame oil", "salt and pepper to taste"],
           "instructions": "1. Season beef with salt and pepper and sauté in a pan until cooked through. 2. Blanch bean sprouts and spinach in boiling water and season with sesame oil and salt. 3. Sauté carrots and zucchini in a pan until tender and season with salt and pepper. 4. Fry an egg sunny-side up. 5. Place rice in a bowl and top with beef, vegetables, and egg. 6. Drizzle gochujang sauce over the top and mix well before eating.",
           "rating": 4.7,
           "favorite": true
         },
-        {
+        { "id":"8",
+        "img":"https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
           "name": "Japchae",
           "ingredients": ["8 oz sweet potato noodles", "1/2 lb beef", "1 onion, sliced", "1 carrot, julienned", "1/2 cup spinach", "3 tbsp soy sauce", "2 tbsp sesame oil", "1 tbsp sugar", "salt and pepper to taste"],
           "instructions": "1. Cook sweet potato noodles in boiling water for 5 minutes, drain, and set aside. 2. Season beef with soy sauce and sugar and sauté in a pan until cooked through. 3. Sauté onion, carrot, and spinach in a pan until tender and season with sesame oil, salt, and pepper. 4. Combine noodles, beef, and vegetables in a large bowl and mix well. 5. Serve and enjoy!",
           "rating": 4.5,
           "favorite": false
         },
-        {
+        { "id":"9",
+        "img":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
           "name": "Kimchi Stew",
-          "ingredients": ["1 lb pork belly", "2 cups kimchi", "1 onion, sliced", "3 cloves garlic, minced", "1 tbsp gochugaru (Korean red pepper flakes)", "2 tbsp soy sauce", "2 tbsp sesame oil", "1 tbsp sugar", "salt and pepper to taste"],
+          "ingredients": ["1 lb pork belly", "2 cups kimchi", "1 onion, sliced", "3 cloves garlic, minced", "1 tbsp gochugaru", "2 tbsp soy sauce", "2 tbsp sesame oil", "1 tbsp sugar", "salt and pepper to taste"],
           "instructions": "1. Sauté pork belly in a pot until browned. 2. Add onion and garlic and sauté until softened. 3. Add kimchi, gochugaru, soy sauce, sugar, salt, and pepper and stir well. 4. Add enough water to cover the ingredients and bring to a boil. 5. Reduce heat and simmer for 30 minutes. 6. Serve and enjoy!",
           "rating": 4.2,
           "favorite": false
@@ -33,28 +36,31 @@
     },
   
     { "id":"2",
-      "chefPicture": "https://images.unsplash.com/photo-1574966739518-0932fea93759?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-      "chefName": "Lee Min-woo",
+      "chefPicture": "https://images.unsplash.com/photo-1512152272829-e3139592d56f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "chefName": "Roy Choi",
       "yearsOfExperience": 10,
       "numbersOfRecipes": 75,
       "Likes": 12000,
-      "Bio": "Lee Min-woo is a Korean chef who has a passion for traditional Korean cuisine. He has trained in some of the best kitchens in Seoul and has won several awards for his authentic Korean dishes. Lee is an advocate for using fresh, local ingredients and incorporating modern cooking techniques into traditional Korean recipes.",
+      "Bio": "Roy Choi is a Korean-American chef who gained prominence as the creator of the gourmet Korean-Mexican taco truck Kogi. Choi is a chef who is celebrated for food that isn't fancy and is known as one of the founders of the gourmet food truck movement.He also maintains a blog on which he posts recipes and rants.He was addicted to crack for a short time, marijuana and gambling, which lasted three years in his early 20s. Choi says that his current addiction is feeding people.",
       "Recipes": [
-        {
+        { "id":"10",
+        "img":"https://images.unsplash.com/photo-1558030006-450675393462?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
           "name": "Bulgogi",
           "ingredients": ["1 lb beef sirloin, thinly sliced", "1/2 cup soy sauce", "1/4 cup sugar", "2 tbsp sesame oil", "4 cloves garlic, minced", "1/4 cup chopped green onions", "1/2 tsp black pepper", "1 tbsp toasted sesame seeds"],
           "instructions": "1. In a bowl, whisk together the soy sauce, sugar, sesame oil, garlic, green onions, and black pepper. 2. Add the sliced beef and toss to coat. 3. Cover the bowl and marinate in the refrigerator for at least 2 hours. 4. Heat a large skillet or wok over high heat. 5. Add the marinated beef and cook, stirring constantly, until browned and cooked through. 6. Serve hot, garnished with toasted sesame seeds.",
           "rating": 4.8,
           "favorite": true
         },
-        {
+        { "id":"11",
+        "img":"https://images.unsplash.com/photo-1534177616072-ef7dc120449d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
           "name": "Japchae",
           "ingredients": ["8 oz sweet potato noodles", "1/2 lb beef sirloin, thinly sliced", "1 onion, sliced", "2 cloves garlic, minced", "1 carrot, julienned", "1/2 cup spinach", "3 tbsp soy sauce", "2 tbsp sesame oil", "1 tbsp sugar", "salt and pepper to taste"],
           "instructions": "1. Cook sweet potato noodles in boiling water for 5 minutes, drain, and set aside. 2. Season beef with soy sauce and sugar and sauté in a pan until cooked through. 3. Sauté onion, garlic, carrot, and spinach in a pan until tender and season with sesame oil, salt, and pepper. 4. Combine noodles, beef, and vegetables in a large bowl and mix well. 5. Serve and enjoy!",
           "rating": 4.5,
           "favorite": false
         },
-        {
+        { "id":"12",
+        "img":"https://images.unsplash.com/photo-1580013759032-c96505e24c1f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=609&q=80",
           "name": "Kimchi Fried Rice",
           "ingredients": ["2 cups cooked rice", "1/2 cup kimchi, chopped", "4 slices bacon, chopped", "1/4 cup chopped green onions", "2 cloves garlic, minced", "2 eggs, beaten", "2 tbsp vegetable oil", "1 tbsp gochujang sauce", "salt and pepper to taste"],
           "instructions": "1. Heat a large skillet or wok over medium heat. 2. Add the bacon and cook until crispy. 3. Add the garlic and green onions and sauté for 1 minute. 4. Add the kimchi and sauté for 2-3 minutes. 5. Add the cooked rice and stir well to combine. 6. Push the rice to one side of the skillet and add the beaten eggs to the other side. 7. Scramble the eggs until cooked, then mix with the rice. 8.",
@@ -73,20 +79,29 @@
     "Likes": 15000,
     "Bio": "Kim Eun-ji is a Korean chef who specializes in traditional Korean dishes with a modern twist. She has worked in various high-end restaurants in Korea and has gained a reputation for her unique flavor combinations and artistic plating techniques.",
     "Recipes": [
-      {
+      { "id":"13",
+      "img":"https://images.unsplash.com/photo-1558030018-d461fe79233e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80",
         "name": "Haemul Pajeon (Seafood Scallion Pancake)",
         "ingredients": ["1/2 cup all-purpose flour", "1/2 cup rice flour", "1 egg", "1/2 cup water", "1/2 lb seafood (shrimp, squid, etc.)", "2 scallions, thinly sliced", "1/2 tsp salt", "vegetable oil for frying"],
         "instructions": "1. In a large bowl, whisk together the all-purpose flour, rice flour, egg, water, and salt. 2. Add the seafood and scallions and mix well. 3. Heat a nonstick skillet over medium heat and add enough vegetable oil to coat the bottom. 4. Pour the batter into the skillet and cook until the bottom is golden brown, about 3-4 minutes. 5. Flip the pancake and cook until the other side is golden brown, about 2-3 minutes. 6. Serve hot, cut into pieces.",
         "rating": 4.7,
         "favorite": true
       },
-      {
+      { "id":"14",
+      "img":"https://images.unsplash.com/photo-1606502973842-f64bc2785fe5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
         "name": "Bibimbap",
         "ingredients": ["1 cup cooked rice", "1/2 cup ground beef", "1 carrot, julienned", "1/2 cup spinach", "1/2 cup bean sprouts", "1/2 cup shiitake mushrooms, sliced", "1 egg", "2 tbsp soy sauce", "1 tbsp sesame oil", "1 tbsp gochujang sauce", "1 clove garlic, minced", "vegetable oil for frying", "salt and pepper to taste"],
         "instructions": "1. In a large skillet, heat some vegetable oil over medium heat and cook the ground beef until browned. 2. Add the garlic and cook for another minute. 3. Add the carrot, spinach, bean sprouts, and shiitake mushrooms and sauté until tender. 4. In a small bowl, mix together the soy sauce, sesame oil, and gochujang sauce. 5. Add the cooked rice to the skillet and mix well. 6. Pour the sauce over the rice and mix well. 7. Fry the egg to your desired level of doneness. 8. Serve the rice and vegetable mixture in a bowl, topped with the fried egg.",
         "rating": 4.6,
         "favorite": false
-      }]},
+      },{ "id":"21",
+      "img":"https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "name": "Japchae (Stir-Fried Glass Noodles)",
+      "ingredients": ["8 oz sweet potato glass noodles", "1/2 lb beef sirloin, sliced thinly", "1/2 cup onion, sliced thinly", "1/2 cup carrot, julienned", "1/2 cup spinach, blanched", "1/2 cup shiitake mushrooms, sliced thinly", "2 cloves garlic, minced", "2 tbsp soy sauce", "1 tbsp sesame oil", "1 tbsp sugar", "2 tbsp vegetable oil", "salt and pepper to taste"],
+      "instructions": "1. Cook the sweet potato glass noodles according to the package instructions. 2. In a large bowl, mix together the soy sauce, sesame oil, sugar, and garlic. 3. Add the sliced beef to the bowl and stir well to coat with the marinade. 4. Let the beef marinate for at least 30 minutes. 5. In a large skillet or wok, heat some vegetable oil over medium-high heat. 6. Add the marinated beef to the skillet and stir-fry for 2-3 minutes or until browned. 7. Add the onion, carrot, shiitake mushrooms, and spinach to the skillet and stir-fry for another 2-3 minutes or until the vegetables are tender. 8. Add the cooked sweet potato glass noodles to the skillet and stir-fry for another 2-3 minutes or until everything is well combined. 9. Season with salt and pepper to taste. 10. Serve hot.",
+      "rating": 4.5,
+      "favorite": false
+    }]},
   
       { "id":"4",
         "chefPicture": "https://images.unsplash.com/photo-1583394293211-45718f7eb6b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
@@ -96,20 +111,23 @@
         "Likes": 18000,
         "Bio": "Choi Young-jae is a seasoned Korean chef who has spent years mastering the art of Korean cuisine. He has traveled extensively throughout Korea to learn about the different regional styles and techniques, and he incorporates this knowledge into his dishes to create unique and flavorful meals.",
         "Recipes": [
-          {
+          { "id":"15",
+          "img":"https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=481&q=80",
             "name": "Bibimbap",
             "ingredients": ["2 cups cooked white rice", "1/2 lb beef, sliced thinly", "1/2 cup spinach, blanched and chopped", "1/2 cup bean sprouts, blanched", "1/2 cup carrots, julienned and blanched", "1/2 cup zucchini, julienned and blanched", "4 eggs, fried sunny-side up", "4 tbsp gochujang sauce", "1 tbsp sesame oil", "1 tbsp soy sauce", "2 cloves garlic, minced", "salt and pepper to taste"],
             "instructions": "1. Divide the cooked rice among four bowls. 2. In a large skillet, heat the sesame oil over medium-high heat. 3. Add the beef and garlic and cook until the beef is browned. 4. Add the soy sauce and stir well. 5. Add the spinach, bean sprouts, carrots, and zucchini to the skillet and sauté for 2-3 minutes. 6. Divide the beef and vegetable mixture among the four bowls of rice. 7. Top each bowl with a fried egg. 8. In a small bowl, mix together the gochujang sauce and a little bit of water to thin it out. 9. Drizzle the gochujang sauce over the top of each bowl. 10. Serve hot.",
             "rating": 4.9,
             "favorite": true
           },
-          {
+          { "id":"16",
+          "img":"https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=449&q=80",
             "name": "Japchae (Stir-Fried Glass Noodles)",
             "ingredients": ["8 oz sweet potato starch noodles", "1/2 lb beef, sliced thinly", "1/2 cup spinach, blanched and chopped", "1/2 cup carrots, julienned and blanched", "1/2 cup onions, sliced thinly", "1/2 cup mushrooms, sliced thinly", "1/2 cup scallions, chopped", "4 cloves garlic, minced", "1 tbsp vegetable oil", "2 tbsp soy sauce", "2 tbsp sugar", "2 tbsp sesame oil", "salt and pepper to taste"],
             "instructions": "1. Cook the noodles according to package instructions and set aside. 2. In a large skillet, heat the vegetable oil over medium-high heat. 3. Add the beef and garlic and cook until the beef is browned. 4. Add the onions and mushrooms and sauté for 2-3 minutes. 5. Add the spinach, carrots, and scallions and sauté for another 2-3 minutes. 6. In a small bowl, mix together the soy sauce, sugar, and sesame oil. 7. Add the cooked noodles to the skillet and stir well. 8. Pour the soy sauce mixture over the noodles and stir well to coat. 9. Cook for another 2-3 minutes or until the noodles are heated through.",
             "rating": 4.7,
         "favorite": true},
-        {
+        { "id":"17",
+        "img":"https://images.unsplash.com/photo-1500315331616-db4f707c24d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
           "name": "Jjajangmyeon (Black Bean Noodles)",
           "ingredients": ["1 package of fresh or dried noodles", "1/2 lb pork belly, diced", "1 onion, diced", "1/2 cup black bean paste", "1 tbsp sugar", "1 tbsp vegetable oil", "1 tbsp cornstarch", "1/4 cup water", "2 cloves garlic, minced", "salt and pepper to taste"],
           "instructions": "1. Cook the noodles according to package instructions and set aside. 2. In a large wok or skillet, heat the vegetable oil over medium-high heat. 3. Add the pork belly and cook until browned. 4. Add the onion and garlic and sauté until translucent. 5. In a small bowl, mix together the black bean paste, sugar, cornstarch, and water. 6. Add the black bean paste mixture to the skillet and stir well. 7. Cook for about 5-7 minutes or until the sauce has thickened. 8. Serve the noodles in a bowl and pour the black bean sauce over them.",
@@ -128,21 +146,24 @@
           "Likes": 12000,
           "Bio": "Park So-yeon is a talented Korean chef who has a passion for creating traditional Korean dishes with a modern twist. She loves to experiment with different flavors and ingredients to create unique and delicious dishes that showcase the diversity of Korean cuisine.",
           "Recipes": [
-            {
+            { "id":"18",
+            "img":"https://images.unsplash.com/photo-1538220856186-0be0e085984d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=463&q=80",
               "name": "Kimchi Fried Rice",
               "ingredients": ["2 cups cooked white rice", "1 cup kimchi, chopped", "1/2 cup bacon, chopped", "1/2 cup onion, chopped", "2 cloves garlic, minced", "2 tbsp vegetable oil", "1 tbsp soy sauce", "1 tbsp gochujang sauce", "1 tsp sesame oil", "salt and pepper to taste"],
               "instructions": "1. In a large skillet, heat the vegetable oil over medium-high heat. 2. Add the bacon and cook until it is crispy. 3. Add the onion and garlic and sauté for 2-3 minutes. 4. Add the chopped kimchi and sauté for another 2-3 minutes. 5. Add the cooked rice to the skillet and stir well to combine with the other ingredients. 6. Add the soy sauce, gochujang sauce, sesame oil, salt, and pepper to the skillet and stir well to combine. 7. Cook for another 2-3 minutes or until the rice is heated through. 8. Serve hot.",
               "rating": 4.5,
               "favorite": false
             },
-            {
+            { "id":"19",
+            "img":"https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
               "name": "Dak Galbi (Spicy Stir-Fried Chicken)",
               "ingredients": ["1 lb boneless, skinless chicken thighs, cut into bite-sized pieces", "2 cups sweet potato, chopped", "1 cup cabbage, chopped", "1/2 cup scallions, chopped", "1/2 cup onion, chopped", "2 tbsp gochujang sauce", "1 tbsp soy sauce", "1 tbsp sugar", "2 cloves garlic, minced", "2 tbsp vegetable oil", "salt and pepper to taste"],
               "instructions": "1. In a large bowl, mix together the gochujang sauce, soy sauce, sugar, garlic, and vegetable oil. 2. Add the chicken to the bowl and stir well to coat with the marinade. 3. Let the chicken marinate for at least 30 minutes. 4. In a large skillet or wok, heat some vegetable oil over medium-high heat. 5. Add the chicken and marinade to the skillet and stir-fry for 5-7 minutes or until the chicken is browned. 6. Add the sweet potato, cabbage, scallions, and onion to the skillet and stir-fry for another 5-7 minutes or until the vegetables are tender. 7. Season with salt and pepper to taste. 8. Serve hot.",
               "rating": 4.9,
               "favorite": true
             },
-            {
+            { "id":"20",
+            "img":"https://images.unsplash.com/photo-1520201163981-8cc95007dd2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
               "name": "Japchae (Stir-Fried Glass Noodles)",
               "ingredients": ["8 oz sweet potato glass noodles", "1/2 lb beef sirloin, sliced thinly", "1/2 cup onion, sliced thinly", "1/2 cup carrot, julienned", "1/2 cup spinach, blanched", "1/2 cup shiitake mushrooms, sliced thinly", "2 cloves garlic, minced", "2 tbsp soy sauce", "1 tbsp sesame oil", "1 tbsp sugar", "2 tbsp vegetable oil", "salt and pepper to taste"],
               "instructions": "1. Cook the sweet potato glass noodles according to the package instructions. 2. In a large bowl, mix together the soy sauce, sesame oil, sugar, and garlic. 3. Add the sliced beef to the bowl and stir well to coat with the marinade. 4. Let the beef marinate for at least 30 minutes. 5. In a large skillet or wok, heat some vegetable oil over medium-high heat. 6. Add the marinated beef to the skillet and stir-fry for 2-3 minutes or until browned. 7. Add the onion, carrot, shiitake mushrooms, and spinach to the skillet and stir-fry for another 2-3 minutes or until the vegetables are tender. 8. Add the cooked sweet potato glass noodles to the skillet and stir-fry for another 2-3 minutes or until everything is well combined. 9. Season with salt and pepper to taste. 10. Serve hot.",
@@ -161,20 +182,23 @@
               "Likes": 15000,
               "Bio": "Lee Hyun-woo is a highly skilled Korean chef with a passion for creating traditional Korean dishes that are both flavorful and healthy. He believes that Korean cuisine is a true reflection of the country's rich culture and history, and strives to introduce the world to the many delicious flavors and ingredients of Korea.",
               "Recipes": [
-                {
+                { "id":"21",
+                "img":"https://images.unsplash.com/photo-1600028068383-ea11a7a101f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
                   "name": "Japchae (Stir-Fried Glass Noodles)",
                   "ingredients": ["8 oz sweet potato glass noodles", "1/2 lb beef sirloin, sliced thinly", "1/2 cup onion, sliced thinly", "1/2 cup carrot, julienned", "1/2 cup spinach, blanched", "1/2 cup shiitake mushrooms, sliced thinly", "2 cloves garlic, minced", "2 tbsp soy sauce", "1 tbsp sesame oil", "1 tbsp sugar", "2 tbsp vegetable oil", "salt and pepper to taste"],
                   "instructions": "1. Cook the sweet potato glass noodles according to the package instructions. 2. In a large bowl, mix together the soy sauce, sesame oil, sugar, and garlic. 3. Add the sliced beef to the bowl and stir well to coat with the marinade. 4. Let the beef marinate for at least 30 minutes. 5. In a large skillet or wok, heat some vegetable oil over medium-high heat. 6. Add the marinated beef to the skillet and stir-fry for 2-3 minutes or until browned. 7. Add the onion, carrot, shiitake mushrooms, and spinach to the skillet and stir-fry for another 2-3 minutes or until the vegetables are tender. 8. Add the cooked sweet potato glass noodles to the skillet and stir-fry for another 2-3 minutes or until everything is well combined. 9. Season with salt and pepper to taste. 10. Serve hot.",
                   "rating": 4.5,
                   "favorite": false
                 },
-                {
+                { "id":"22",
+                "img":"https://images.unsplash.com/photo-1536964549204-cce9eab227bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
                   "name": "Haemul Pajeon (Seafood Green Onion Pancake)",
                   "ingredients": ["1 cup all-purpose flour", "1/2 cup water", "1 egg", "1/2 cup squid, sliced thinly", "1/2 cup shrimp, peeled and deveined", "1/2 cup green onion, sliced thinly", "2 cloves garlic, minced", "2 tbsp soy sauce", "1 tbsp sesame oil", "1 tbsp vegetable oil", "salt and pepper to taste"],
                   "instructions": "1. In a large bowl, mix together the flour, water, egg, soy sauce, sesame oil, garlic, salt, and pepper to make a batter. 2. Add the squid, shrimp, and green onion to the bowl and stir well to coat with the batter. 3. Heat some vegetable oil in a large skillet over medium-high heat. 4. Add the batter and seafood mixture to the skillet and spread it out into an even layer. 5. Cook for 3-4 minutes on each side or until the pancake is golden brown and crispy. 6. Slice into wedges and serve hot.",
                   "rating": 4.9,
                   "favorite": true
-                },{
+                },{"id":"23",
+                "img":"https://images.unsplash.com/photo-1555072956-7758afb20e8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
                   "name": "Jjajangmyeon (Black Bean Noodles)",
                   "ingredients": ["1 package of fresh or dried noodles", "1/2 lb pork belly, diced", "1 onion, diced", "1/2 cup black bean paste", "1 tbsp sugar", "1 tbsp vegetable oil", "1 tbsp cornstarch", "1/4 cup water", "2 cloves garlic, minced", "salt and pepper to taste"],
                   "instructions": "1. Cook the noodles according to package instructions and set aside. 2. In a large wok or skillet, heat the vegetable oil over medium-high heat. 3. Add the pork belly and cook until browned. 4. Add the onion and garlic and sauté until translucent. 5. In a small bowl, mix together the black bean paste, sugar, cornstarch, and water. 6. Add the black bean paste mixture to the skillet and stir well. 7. Cook for about 5-7 minutes or until the sauce has thickened. 8. Serve the noodles in a bowl and pour the black bean sauce over them.",
