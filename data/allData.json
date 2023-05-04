@@ -81,7 +81,7 @@
     "Recipes": [
       { "id":"13",
       "img":"https://images.unsplash.com/photo-1467003909585-2f8a72700288?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "name": "Haemul Pajeon (Seafood Scallion Pancake)",
+        "name": "Haemul Pajeon (Seafood Scallion)",
         "ingredients": ["1/2 cup all-purpose flour", "1/2 cup rice flour", "1 egg", "1/2 cup water", "1/2 lb seafood (shrimp, squid, etc.)", "2 scallions, thinly sliced", "1/2 tsp salt", "vegetable oil for frying"],
         "instructions": "1. In a large bowl, whisk together the all-purpose flour, rice flour, egg, water, and salt. 2. Add the seafood and scallions and mix well. 3. Heat a nonstick skillet over medium heat and add enough vegetable oil to coat the bottom. 4. Pour the batter into the skillet and cook until the bottom is golden brown, about 3-4 minutes. 5. Flip the pancake and cook until the other side is golden brown, about 2-3 minutes. 6. Serve hot, cut into pieces.",
         "rating": 4.7,
@@ -157,7 +157,7 @@
             { "id":"19",
             "img":"https://images.unsplash.com/photo-1467003909585-2f8a72700288?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
               "name": "Dak Galbi (Spicy Stir-Fried Chicken)",
-              "ingredients": ["1 lb boneless, skinless chicken thighs, cut into bite-sized pieces", "2 cups sweet potato, chopped", "1 cup cabbage, chopped", "1/2 cup scallions, chopped", "1/2 cup onion, chopped", "2 tbsp gochujang sauce", "1 tbsp soy sauce", "1 tbsp sugar", "2 cloves garlic, minced", "2 tbsp vegetable oil", "salt and pepper to taste"],
+              "ingredients": ["1 lb boneless, skinless chicken thighs", "2 cups sweet potato, chopped", "1 cup cabbage, chopped", "1/2 cup scallions, chopped", "1/2 cup onion, chopped", "2 tbsp gochujang sauce", "1 tbsp soy sauce", "1 tbsp sugar", "2 cloves garlic, minced", "2 tbsp vegetable oil", "salt and pepper to taste"],
               "instructions": "1. In a large bowl, mix together the gochujang sauce, soy sauce, sugar, garlic, and vegetable oil. 2. Add the chicken to the bowl and stir well to coat with the marinade. 3. Let the chicken marinate for at least 30 minutes. 4. In a large skillet or wok, heat some vegetable oil over medium-high heat. 5. Add the chicken and marinade to the skillet and stir-fry for 5-7 minutes or until the chicken is browned. 6. Add the sweet potato, cabbage, scallions, and onion to the skillet and stir-fry for another 5-7 minutes or until the vegetables are tender.",
               "rating": 4.9,
               "favorite": true
@@ -175,7 +175,7 @@
             ]},
   
             { "id":"6",
-              "chefPicture": "https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+              "chefPicture": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
               "chefName": "Lee Hyun-woo",
               "yearsOfExperience": 15,
               "numbersOfRecipes": 120,
@@ -192,7 +192,7 @@
                 },
                 { "id":"22",
                 "img":"https://images.unsplash.com/photo-1536964549204-cce9eab227bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-                  "name": "Haemul Pajeon (Seafood Green Onion Pancake)",
+                  "name": "Haemul Pajeon (Seafood Green Onion)",
                   "ingredients": ["1 cup all-purpose flour", "1/2 cup water", "1 egg", "1/2 cup squid, sliced thinly", "1/2 cup shrimp, peeled and deveined", "1/2 cup green onion, sliced thinly", "2 cloves garlic, minced", "2 tbsp soy sauce", "1 tbsp sesame oil", "1 tbsp vegetable oil", "salt and pepper to taste"],
                   "instructions": "1. In a large bowl, mix together the flour, water, egg, soy sauce, sesame oil, garlic, salt, and pepper to make a batter. 2. Add the squid, shrimp, and green onion to the bowl and stir well to coat with the batter. 3. Heat some vegetable oil in a large skillet over medium-high heat. 4. Add the batter and seafood mixture to the skillet and spread it out into an even layer. 5. Cook for 3-4 minutes on each side or until the pancake is golden brown and crispy. 6. Slice into wedges and serve hot.",
                   "rating": 4.9,
